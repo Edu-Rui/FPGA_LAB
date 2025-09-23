@@ -1,0 +1,14 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/home/user/Desktop/FPGA_LAB/LAB1_FLIP_FLOP/DFFAR.vhd,1757617475,vhdl,,,,dffar,,,,,,,,
+/home/user/Desktop/FPGA_LAB/LAB1_FLIP_FLOP/HADD.vhd,1757442127,vhdl,,,,hadd,,,,,,,,
+/home/user/Desktop/FPGA_LAB/LAB1_FLIP_FLOP/SRLATCH1.vhd,1757608078,vhdl,,,,srlatch1,,,,,,,,
+/home/user/Desktop/FPGA_LAB/LAB1_FLIP_FLOP/SRLATCH1_TB.vhd,1757452325,vhdl,,,,srlatch1_tb,,,,,,,,
+/home/user/Desktop/FPGA_LAB/LAB1_FLIP_FLOP/SRLATCH2.vhd,1757602379,vhdl,,,,srlatch2,,,,,,,,
+/home/user/Desktop/FPGA_LAB/LAB1_FLIP_FLOP/SRLATCH2_TB.vhd,1757443629,vhdl,,,,srlatch2_tb,,,,,,,,
+/home/user/Desktop/FPGA_LAB/LAB1_FLIP_FLOP/bcounter.vhd,1757616790,vhdl,,,,bcounter,,,,,,,,
+/home/user/Desktop/FPGA_LAB/LAB1_FLIP_FLOP/bcounter_TB.vhd,1757442135,vhdl,,,,bcounter_tb,,,,,,,,
+/home/user/Desktop/FPGA_LAB/LAB1_FLIP_FLOP/tcounter.vhd,1757614725,vhdl,,,,tcounter,,,,,,,,
+/home/user/Desktop/FPGA_LAB/LAB1_FLIP_FLOP/tcounter_TB.vhd,1757442117,vhdl,,,,tcounter_tb,,,,,,,,

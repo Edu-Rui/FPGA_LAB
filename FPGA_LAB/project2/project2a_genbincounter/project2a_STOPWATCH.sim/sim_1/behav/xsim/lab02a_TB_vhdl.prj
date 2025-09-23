@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../DFFAR.vhd" \
+"../../../../HADD.vhd" \
+"../../../../bcounter.vhd" \
+"../../../../lab02a.vhd" \
+"../../../../lab02a_TB.vhd" \
+
+# Do not sort compile order
+nosort

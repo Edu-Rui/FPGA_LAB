@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../c_buttonControls.srcs/sources_1/imports/project2/project2a_genbincounter/DFFAR.vhd" \
+"../../../../c_buttonControls.srcs/sources_1/imports/project2/project2a_genbincounter/HADD.vhd" \
+"../../../../c_buttonControls.srcs/sources_1/imports/project2/project2a_genbincounter/bcounter.vhd" \
+"../../../../c_buttonControls.srcs/sources_1/imports/c_buttonControls/lab02c.vhd" \
+
+# Do not sort compile order
+nosort
